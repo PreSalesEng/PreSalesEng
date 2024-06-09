@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a list of useful tools/resources for Pre-Sales Engineers
 - 📫 How to reach me hello@presales.engneering or @PreSalesEng on Twitter/X
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ⏳ Let me think about that
+- ⚡ Fun fact: ⏳ will have to think about that
 
 <!---
 PreSalesEng/PreSalesEng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
